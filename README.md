@@ -75,8 +75,9 @@ Run the script:
 python drowsiness_detection.py
 
 
-👥Authors
-Joel Giftson J – Saranathan College of Engineering
+👥Authors – Saranathan College of Engineering
+
+Joel Giftson J 
 
 Seenivasa Perumal N
 
